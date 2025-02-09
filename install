@@ -1,0 +1,39 @@
+#!/bin/bash
+#################################################################################################
+# Nautilus Ogv to Flv Converter script v.1.4 (ffmpeg edition)					#
+# -----------------------------------------------------------					#
+#												#
+# Small install script for 'Ogv to Flv Converter' Script.					#
+#												#
+# Code put together by Jean-Claude, Oct 2008 - https://wiki.ubuntu.com/JeanClaude 	#
+# This code is licensed under the General Public License as released by the 			#
+# Free Software	Foundation. You may use, modify and distribute as long as you use		#
+# the GPL2 or later version. 									#
+#												#
+# This program is distributed in the hope that it will be useful,				#
+# but WITHOUT ANY WARRANTY; without even the implied warranty of				#
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the					#
+# GNU General Public License for more details.							#
+#												#
+#################################################################################################
+
+
+
+
+version="v1.4";
+
+
+
+# ALERT USER TO INTENTIONS
+zenity --info --title="Installing 'Ogv to Flv Converter $version'..." --text="This script will install 'OGV to FLV Converter $version' to your '~/.gnome2/nautilus-scripts' directory. \n\n Press OK to continue?"
+
+# COPY CONVERTER SCRIPT TO "~/.GNOME2/NAUTILUS-SCRIPTS" DIRECTORY
+cp Ogv\ to\ Flv\ Converter\ $version ~/.gnome2/nautilus-scripts | zenity --progress --pulsate --percentage=0 --title "Installing..." --text "Installing Script!" --auto-close;
+
+# MAKE SURE FILE IS EXECUTABLE
+chmod +x ~/.gnome2/nautilus-scripts/Ogv\ to\ Flv\ Converter\ $version | zenity --progress --pulsate --percentage=0 --title "Modifying..." --text "Making script executable" --auto-close;
+
+# ALERT USER THAT INSTALLATION IS COMPLETE
+zenity --info --title="Installation Complete..." --text="Installation is complete. Thank you for using Ogv to Flv Converter $version!\n\nPlease give feedback on gnome-look.org at the project page, http://gnome-look.org/content/show.php/Ogv+to+Flv+Converter?content=90837."
+
+
