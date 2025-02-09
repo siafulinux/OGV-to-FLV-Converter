@@ -1,20 +1,20 @@
 #################################################################################################
-# Nautilus Ogv to Flv Converter script v.1.4 (ffmpeg edition)					#
-# -----------------------------------------------------------					#
-#												#
-# A frontend for converting ogg, ogv, asf, mp4 and even other flv files to flv format made 	#
-# initially for gtk-recordmydesktop. Should work just fine for all .ogg/.ogv formats.		#
-#												#
-# Code "compiled" by Jean-Claude, Oct 2008 - https://wiki.ubuntu.com/JeanClaude 		#
-# This code is licensed under the General Public License as released by the 			#
-# Free Software	Foundation. You may use, modify and distribute as long as you use		#
-# the GPL2 or later version. 									#
-#												#
-# This program is distributed in the hope that it will be useful,				#
-# but WITHOUT ANY WARRANTY; without even the implied warranty of				#
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the					#
-# GNU General Public License for more details.							#
-#												#
+# Nautilus Ogv to Flv Converter script v.1.4 (ffmpeg edition)					
+# -----------------------------------------------------------					
+#												
+# A frontend for converting ogg, ogv, asf, mp4 and even other flv files to flv format made 	
+# initially for gtk-recordmydesktop. Should work just fine for all .ogg/.ogv formats.		
+#												
+# Code "compiled" by Jean-Claude, Oct 2008 - https://wiki.ubuntu.com/JeanClaude 		
+# This code is licensed under the General Public License as released by the 			
+# Free Software	Foundation. You may use, modify and distribute as long as you use		
+# the GPL2 or later version. 									
+#												
+# This program is distributed in the hope that it will be useful,				
+# but WITHOUT ANY WARRANTY; without even the implied warranty of				
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the					
+# GNU General Public License for more details.							
+#												
 #################################################################################################
 
 
