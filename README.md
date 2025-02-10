@@ -7,7 +7,9 @@ initially for gtk-recordmydesktop. Should work just fine for all .ogg/.ogv forma
 Code "compiled" by Jean-Claude, Oct 2008 - https://wiki.ubuntu.com/JeanClaude 		
 This code is licensed under the General Public License as released by the 			
 Free Software	Foundation. You may use, modify and distribute as long as you use		
-the GPL2 or later version. 									
+the GPL2 or later version. 			
+
+<img src='https://github.com/siafulinux/OGV-to-FLV-Converter/blob/main/OGV%20to%20FLV%20Converter.png'></img>
 											
 This program is distributed in the hope that it will be useful,				
 but WITHOUT ANY WARRANTY; without even the implied warranty of				
