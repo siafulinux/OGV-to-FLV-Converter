@@ -1,3 +1,12 @@
+---
+## What this is — for hiring managers
+
+Bash / ffmpeg video converter for Linux, originally a Nautilus script to convert recordMyDesktop .ogv files to web-ready video. Written in 2008 and featured by FOSSWire — an early open-source contribution showing long-running Linux scripting and community work.
+
+**Skills shown:** Bash, ffmpeg, Linux automation.
+
+---
+
 # OGV to FLV Converter - Nautilus Bash Script
 
 **Bash automation for video transcoding using ffmpeg.**
